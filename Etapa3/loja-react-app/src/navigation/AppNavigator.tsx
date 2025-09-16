@@ -10,7 +10,7 @@ import { RootStackParamList, TabParamList } from "./types";
 import HomeScreen from "../screens/HomeScreen";
 import RegisterScreen from "../screens/RegisterScreen";
 import LoginScreen from "../screens/LoginScreen";
-import CatalogScreen from "../screens/catalog/catalogScreen";
+import CatalogScreen from "../screens/catalog/CatalogScreen";
 
 // TODO: Substituir por uma tela real de configurações
 const SettingsScreen = HomeScreen; 
